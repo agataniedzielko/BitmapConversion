@@ -1,0 +1,10 @@
+C:\Users\anied\source\repos\lab2a\lab2a\obj\Debug\lab2a.csproj.AssemblyReference.cache
+C:\Users\anied\source\repos\lab2a\lab2a\obj\Debug\lab2a.Form1.resources
+C:\Users\anied\source\repos\lab2a\lab2a\obj\Debug\lab2a.Properties.Resources.resources
+C:\Users\anied\source\repos\lab2a\lab2a\obj\Debug\lab2a.csproj.GenerateResource.cache
+C:\Users\anied\source\repos\lab2a\lab2a\obj\Debug\lab2a.csproj.CoreCompileInputs.cache
+C:\Users\anied\source\repos\lab2a\lab2a\bin\Debug\lab2a.exe.config
+C:\Users\anied\source\repos\lab2a\lab2a\bin\Debug\lab2a.exe
+C:\Users\anied\source\repos\lab2a\lab2a\bin\Debug\lab2a.pdb
+C:\Users\anied\source\repos\lab2a\lab2a\obj\Debug\lab2a.exe
+C:\Users\anied\source\repos\lab2a\lab2a\obj\Debug\lab2a.pdb
